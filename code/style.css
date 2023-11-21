@@ -413,6 +413,7 @@
     justify-content: space-between;
     width: 80%;
     margin: auto;
+    flex-wrap: wrap;
 }
 
 .footer-section1 img{
